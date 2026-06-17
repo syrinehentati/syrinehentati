@@ -8,12 +8,6 @@ I build things because I get frustrated doing them manually.
 
 ## 🚀 What I've built
 
-### [Vibe](https://github.com/syrinehentati/Vibe) — AI Email Agent
-Reads your contact's writing style and writes back in their exact tone. Not generic AI. Actually them.
-- Tone detection from email history via Gemini AI
-- MCP server with SSE transport — plugs directly into AI clients
-- `Python` `FastMCP` `Gemini API` `Pydantic` `Railway`
-
 ### [IncidentIQ](https://github.com/syrinehentati/AI-powered-support-ticket-analyzer) — AI Incident Intelligence Platform
 I spent months reading multilingual incident reports manually and writing resolutions every day. So I automated it.
 - RAG pipeline: Gemini embeddings + cosine similarity to surface past incidents
@@ -21,6 +15,11 @@ I spent months reading multilingual incident reports manually and writing resolu
 - Gets smarter the more incidents you resolve
 - `NestJS` `TypeScript` `PostgreSQL` `React` `Gemini API`
 
+### [Vibe](https://github.com/syrinehentati/Vibe) — AI Email Agent
+Reads your contact's writing style and writes back in their exact tone. Not generic AI. Actually them.
+- Tone detection from email history via Gemini AI
+- MCP server with SSE transport — plugs directly into AI clients
+- `Python` `FastMCP` `Gemini API` `Pydantic` `Railway`
 ---
 
 ## 🛠️ Stack
