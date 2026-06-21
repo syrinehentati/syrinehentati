@@ -1,6 +1,6 @@
 # Hi, I'm Syrine 👋
 
-Backend engineer turned AI builder. I work across the full stack — microservices, GraphQL, IoT, OAuth — and lately I've been going deep on AI-native tooling: RAG pipelines, vector embeddings, and MCP servers.
+Backend engineer turned AI builder. I work across the full stack, microservices, GraphQL, IoT, OAuth, and lately I've been going deep on AI-native tooling: RAG pipelines, vector embeddings, and MCP servers.
 
 I build things because I get frustrated doing them manually.
 
@@ -8,18 +8,18 @@ I build things because I get frustrated doing them manually.
 
 ## 🚀 What I've built
 
-### [IncidentIQ](https://github.com/syrinehentati/AI-powered-support-ticket-analyzer) — AI Incident Intelligence Platform
+### [IncidentIQ](https://github.com/syrinehentati/AI-powered-support-ticket-analyzer): AI Incident Intelligence Platform
 I spent months reading multilingual incident reports manually and writing resolutions every day. So I automated it.
 - RAG pipeline: Gemini embeddings + cosine similarity to surface past incidents
 - Multilingual — works across any language
 - Gets smarter the more incidents you resolve
 - `NestJS` `TypeScript` `PostgreSQL` `React` `Gemini API`
 
-### [Vibe](https://github.com/syrinehentati/Vibe) — AI Email Agent
+### [Vibe](https://github.com/syrinehentati/Vibe) : AI Email Agent
 Reads your contact's full email history, detects how they actually write, and generates replies that sound exactly like them, not like AI.
-- Gmail API integration with OAuth 2.0 — fetches full sender history across your entire mailbox
-- Chrome extension that injects directly into Gmail — one click to generate, one click to insert
-- MCP server with SSE transport — plugs directly into AI clients
+- Gmail API integration with OAuth 2.0, fetches full sender history across your entire mailbox
+- Chrome extension that injects directly into Gmail, one click to generate, one click to insert
+- MCP server with SSE transport, plugs directly into AI clients
 - `Python` `FastMCP` `Gemini API` `Pydantic` `Railway` `Chrome Extension` `Gmail API`
 ---
 
