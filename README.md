@@ -43,7 +43,6 @@ Reads your contact's full email history, detects how they actually write, and ge
 - 🚗 Enterprise automotive support @ **KPIT Technologies**
 - 🎓 Computer Science Engineering — ENSIT, Tunisia
 
-Open to remote backend or AI engineering roles in the UK or Europe.
 
 ---
 
